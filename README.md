@@ -3,10 +3,11 @@
 - 🔭 I’m working with DevOps and Fullstack Developer
 - 🌱 I’m currently learning Azure Devops, SRE and Machine Learning
 - 📩 contact me by email: victorrocha2910@gmail.com
+ 
+<a href="https://www.linkedin.com/in/victor-rodrigues-da-rocha-a320301a7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <div>
   <a href="https://github.com/victorrocha2910">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorrocha2910&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrocha2910&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
@@ -29,12 +30,7 @@
 ##
 
 <div> 
-  <a href="https://www.linkedin.com/in/victor-rodrigues-da-rocha-a320301a7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
   
-
+   ![Status](./profile-3d-contrib/profile-night-green.svg)
   
- |[![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=victorrocha2910&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorrocha2910&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
- 
 </div>
