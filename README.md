@@ -1,7 +1,7 @@
 ## Hi there, I'm Victor Rodrigues da Rocha 👋
 
 - 🔭 I’m working with DevOps and Fullstack Developer
-- 🌱 I’m currently learning Azure Devops, SRE and Machine Learning
+- 🌱 I’m currently learning Azure Devops, Kubernets, SRE and Machine Learning
 - 📩 contact me by email: victorrocha2910@gmail.com
  
 <a href="https://www.linkedin.com/in/victor-rodrigues-da-rocha-a320301a7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
