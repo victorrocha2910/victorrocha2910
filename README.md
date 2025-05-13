@@ -31,6 +31,10 @@
 <div> 
   <a href="https://www.linkedin.com/in/victor-rodrigues-da-rocha-a320301a7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/victorrocha2910/victorrocha2910/blob/output/github-contribution-grid-snake.svg)
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  
+
+  
+ |[![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=victorrocha2910&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorrocha2910&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
  
 </div>
