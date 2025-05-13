@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN_ACCESS }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
