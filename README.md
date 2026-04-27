@@ -11,6 +11,9 @@
   <a href="mailto:victorrocha2910@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://www.strava.com/athletes/80856923" target="_blank">
+    <img src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" alt="Strava" />
+  </a>
   <a href="https://github.com/victorrocha2910">
     <img src="https://img.shields.io/github/followers/victorrocha2910?label=Follow&style=for-the-badge&color=181717&logo=github" alt="GitHub Followers" />
   </a>
@@ -91,9 +94,7 @@ fun_fact: "Fora do teclado, geralmente em alguma trilha."
 ### 🛡️ DevSecOps & Segurança
 <p>
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasec&logoColor=white" />
-  <img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white" />
+  <img src="https://img.shields.io/badge/Semgrep-1B1F24?style=for-the-badge&logo=semgrep&logoColor=white" />
   <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
 </p>
@@ -140,6 +141,9 @@ fun_fact: "Fora do teclado, geralmente em alguma trilha."
 Quando não tô no terminal, geralmente tô em alguma trilha 🏃🥾
 
 <p>
+  <a href="https://www.strava.com/athletes/80856923" target="_blank">
+    <img src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white" />
+  </a>
   <img src="https://img.shields.io/badge/Trail_Running-FF6B35?style=for-the-badge&logo=strava&logoColor=white" />
   <img src="https://img.shields.io/badge/Trekking-228B22?style=for-the-badge&logo=googleearth&logoColor=white" />
 </p>
